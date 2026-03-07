@@ -14,7 +14,6 @@ I also have many ideas and hope to share them with everyone through open-source 
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarkXuJQ&theme=omni&utcOffset=8" height="165" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarkXuJQ&theme=omni" height="165" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarkXuJQ&theme=omni" height="165" />
 </div>
 
@@ -22,11 +21,4 @@ Additionally, I have a personal website, markxu.icu, where I share snippets of m
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmarkxu.icu)](https://markxu.icu)
 
-Programming:
-
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,js,ts,html,css,react,svelte,vite,py,pytorch,qt,swift,mysql)](https://skillicons.dev)
-
-Others:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,anaconda,figma,notion,pnpm,vercel,vscode,androidstudio,idea)](https://skillicons.dev)
 </div>
